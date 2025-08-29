@@ -29,7 +29,8 @@ npm install Usage
 pip install Usage
 
 # run the scraper
-node scrape.js
+node scrape.js (for the js scraper)
+python scrpae.pyw (for the python scraper)
 
 # optional, run the Python helper for CSV
 python scrape.pyw
@@ -76,5 +77,6 @@ Credits
 
 
 Built by you, data belongs to Smart India Hackathon organizers and respective sources
+
 
 
