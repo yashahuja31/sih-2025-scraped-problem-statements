@@ -1,4 +1,4 @@
-**Smart India Hackathon Problem Statements 2025 Scraper**
+# Smart India Hackathon Problem Statements 2025 Scraper
 
 A Node.js scraper that collects Smart India Hackathon problem statements and saves structured JSON plus helper artifacts.
 
@@ -25,8 +25,8 @@ Internet access to SIH site
 Install
 
 # install dependencies
-npm install
-Usage
+npm install Usage
+pip install Usage
 
 # run the scraper
 node scrape.js
@@ -76,3 +76,4 @@ Credits
 
 
 Built by you, data belongs to Smart India Hackathon organizers and respective sources
+
