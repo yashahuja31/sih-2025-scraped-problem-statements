@@ -29,12 +29,12 @@ npm install Usage
 pip install Usage
 
 # run the scraper
-node scrape.js (for the js scraper)
-python scrpae.pyw (for the python scraper)
+node scrape.js 
+Usage (for the json format data output) 
 
 # optional, run the Python helper for CSV
 python scrape.pyw
-Configuration
+Configuration (for the cv format data output)
 
 Edit constants inside scrape.js
 BASE_URL, year route or endpoint
@@ -77,6 +77,7 @@ Credits
 
 
 Built by you, data belongs to Smart India Hackathon organizers and respective sources
+
 
 
 
