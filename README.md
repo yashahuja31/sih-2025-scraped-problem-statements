@@ -2,7 +2,7 @@
 
 A Node.js scraper that collects Smart India Hackathon problem statements and saves structured JSON plus helper artifacts.
 
-##Features
+# Features
 
 Fetches problem statements list and details
 Outputs clean JSON, PDF link list, and a CSV if needed
@@ -76,4 +76,5 @@ Credits
 
 
 Built by you, data belongs to Smart India Hackathon organizers and respective sources
+
 
